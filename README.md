@@ -25,7 +25,7 @@ A professional, interactive Streamlit app that allows users to upload or generat
 ## Demo
 
 You can try a live version here:  
-[streamlit.app link](https://your-app.streamlit.app)
+[streamlit.app link](https://ruben-portfolio.streamlit.app/)
 
 ---
 
